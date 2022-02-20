@@ -9,5 +9,4 @@ public class holaMundo {
 		String msn="!Hola Mundo des una variable!";
 		System.out.println(msn);	
 	}
-
 }
