@@ -31,7 +31,7 @@ public class variables {
 		//double: Emplea un tamaño de 64 bits (8 bytes).
 		//Esto permite almacenar valores entre [-1.7976931348623157E+309. 4.94065645841246544E-324].
 		
-		double = numeroDouble = 2654792142478F;
+		//double = numeroDouble = 2654792142478F;
 		
 		//boolean: Se emplea con la finalidad de trabajar con valores con valores verdaderos7false(booleanos).
 		//Se traducen sus valores en True/False.
@@ -43,12 +43,6 @@ public class variables {
 		
 		char NumeroChar = 1;
 		char letraChar ='D';
-		
-		
-		
-		
-		
-
 	}
 
 }
