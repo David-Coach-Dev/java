@@ -43,6 +43,65 @@ public class variables {
 		
 		char NumeroChar = 1;
 		char letraChar ='D';
+		
+		//string: Se emplea creando una instancia de la clase String,
+		//aunque parezca trabajar con satos primitivos.
+		
+		String variableString = "hola david";
+				
+		//Vector - Arreglo: Se emplea para almacenar 
+		//un grupo de datos del mismo tipo.
+		
+		//Forma 1 
+		int vectorNumeros1[] = new int [10];
+		
+		//Forma 2
+		int []vectorNumeros2= new int [10];
+		
+		//Forma 3
+		int[] vectorNumeros3 = new int [10];
+		
+		//Forma 4
+		int vectorNumeros4[];
+		
+		//Forma 5
+		int vectorNumeros5[] = {};
+		
+		//Forma 6
+		int vectorNumeros6[] = {9,8,7,6,5,4,3,2,1,0};
+		
+		//Forma 7
+		int vectroNumeros7[] = new int []{9,8,7,6,5,4,3,2,1,0};
+		
+		//Matriz: Se emplea para almacenar un grupo de datos del mismo
+		//de forma bidimencional basada en [x],[y].
+		
+		
+		//Forma 1 
+		int 
+		matrizrNumeros1[][] = new int [4][5];
+		
+		//Forma 2
+		int [][]matrizNumeros2= new int [4][5];
+		
+		//Forma 3
+		int[][] matrizNumeros3 = new int [4][5];
+		
+		//Forma 4
+		int matrizNumeros4[][];
+		
+		//Forma 5
+		int matrizNumeros5[][] = {};
+		
+		//Forma 6
+		int matrizNumeros6[][] = {{1,2},{2,7}};
+		
+		//Forma 7
+		int matrizNumeros7[][] = new int [][]{{2,6},{5,6}};
+		
+		// Variable de tipo persona (Persona es una clase);
+		//
+		// Persona P;
 	}
 
 }
